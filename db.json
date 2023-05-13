@@ -1,0 +1,65 @@
+{
+  "user": [
+    {
+      "role": "admin",
+      "email": "haseebn2868@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "role": "user",
+      "email": "harismuhammad271@gmail.com",
+      "password": "67890",
+      "id": 2
+    },
+    {
+      "role": "user",
+      "email": "haseeb@gmail.com",
+      "password": "87654",
+      "id": 3
+    },
+    {
+      "role": "user",
+      "email": "abdulhadi@gmail.com",
+      "password": "22222",
+      "id": 4
+    }
+  ],
+  "tasks": [
+    {
+      "task": "Learn Vue Js",
+      "user_id": 2,
+      "id": 1
+    },
+    {
+      "task": "Implement Vue Js",
+      "user_id": 2,
+      "id": 2
+    },
+    {
+      "task": "Practice Vue JS",
+      "user_id": 3,
+      "id": 3
+    },
+    {
+      "task": "Go to sleep now",
+      "user_id": 3,
+      "id": 4
+    },
+    {
+      "task": "Eat good food now",
+      "user_id": 3,
+      "id": 6
+    },
+    {
+      "task": "haris's task",
+      "user_id": 2,
+      "id": 7
+    },
+    {
+      "task": "abdul hadi todo1",
+      "user_id": 4,
+      "id": 8
+    }
+  ]
+}
